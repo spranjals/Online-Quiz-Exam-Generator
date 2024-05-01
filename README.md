@@ -1,4 +1,4 @@
-# Online-Quiz-Generator-
+# Online-Quiz-Exam-Generator
 
 This is an Quiz Exam Generator System designed to facilitate exam creation, administration, and result analysis. It provides separate interfaces for both users and administrators, along with real-time updates, JWT authentication, and more.
 
@@ -36,7 +36,7 @@ To get started with the Exam Management System, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using:
 
     ```
-    git clone https://github.com/spranjals/Online-Quiz-Generator.git
+    git clone https://github.com/spranjals/Online-Quiz-Exam-Generator.git
     ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies for both the frontend and backend:
